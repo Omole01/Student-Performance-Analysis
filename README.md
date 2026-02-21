@@ -9,3 +9,4 @@ This project involved cleaning and transforming raw student data, creating calcu
 • KPI development and performance tracking
 • Interactive reporting using slicers
 • Data visualization and storytelling
+(DASHBOARD)(DASHBOARD.png)
